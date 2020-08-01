@@ -1,0 +1,19 @@
+これはサンプルテキストです。
+
+1. ~/environment フォルダの直下に移動する
+$ cd ~/environment
+
+2. ~/environment フォルダの直下で kadai-terminal フォルダを作成する
+$ mkdir kadai-terminal
+
+3.  先ほど作成した kadai-terminal へ現在フォルダを移動する
+$ cd kadai-terminal
+
+4.  kadai-terminal の直下で memo.txt を空ファイルとして作成する
+$ touch memo.txt
+
+5. nanoで kadai-terminal の直下の memo.txt を開く
+$ nano memo.txt
+
+6. lessで kadai-terminal の直下の memo.txt を開く
+$ less memo.txt
